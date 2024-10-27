@@ -1,99 +1,99 @@
 # Site settings   #站点设置
-title   标题: wusiban Blog   标题：五板博客
+title   标题: wusiban Blog   标题：五四博客
 SEOTitle: 2020级四班的博客 | 五四 Blog
-header-img: img/home-bg.jpg头部图片：
+header-img: img/home-bg.jpg
 email   电子邮件: su@suyuhang.us.kg   电子邮件：su@suyuhang.us.kg
 description   描述: "这里是 @wusi五四 的班级博客，与你一起发现更大的世界 | 要做一个安静的班级"
 keyword   关键字: "五四, wusi五四, 五四, 鬼栈, 2020级四班, @wusi, 五四的博客, wusi Blog, 博客, 班级网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://huangxuan.me" # your host, for absolute URLURL：“https：//huangxuan.me”#您的主机，用于绝对URL
 baseurl: ""   ＂" # for example, '/blog' if your blog hosted on 'host/blog'`baseurl`： "" (例如，如果博客位于 `host/blog` 上，则为 `/blog`)。
 
-# Publish posts or collection documents with a future date.发布带有班级的博客。
-future   未来: true   未来:真
+# Publish posts or collection documents with a future date.
+future: true
 
-# SNS settings   # SNS设置
-RSS: false   RSS:假   RSS：假RSS：假
-weibo_username: 
-zhihu_username: 
-github_username: 
-twitter_username: 
-#facebook_username:  huxpro脸书用户名：霍克斯普罗
-#linkedin_username:  firstname-lastname-idxxxx领英用户名：名字-姓氏-ID xxxx
+# SNS settings
+RSS: false
+weibo_username: 1
+zhihu_username: 1
+github_username: 1
+twitter_username: 1
+#facebook_username:  huxpro
+#linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.从2016年开始，GitHub Pages不再支持使用“pygments”进行代码高亮显示，建议使用“rouge”替代。
-highlighter   萤光笔: rouge   萤光笔:胭脂
-permalink   永久链接: pretty   永久链接:漂亮
-paginate   随意翻阅: 10
-exclude   排除:
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude:
   [
-    "less"   “少”,   “少”,
-    "node_modules"   “node_modules”,   “node_modules”,"node_modules"   “node_modules” 是 Node.js 项目中的一个文件夹，用于存储项目中依赖的第三方模块。这个文件夹通常位于项目的根目录下，并且包含了项目中所有依赖的模块。在开发过程中，我们通常会通过 npm（Node Package Manager，Node.js 的包管理器）安装和管理这些模块。
+    "less",
+    "node_modules",
     "Gruntfile.js",
     "package.json",
     "README.md",
     "README.zh.md",
   ]
-anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`AnchorJS: true # 如果您想自定义锚点，请查看`post.html`文件第181行。
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:如果你在中国遇到了时区问题（例如问题#68），请取消注释并使用此代码：
-#timezone: CN   #时区:CN
+anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
+# If you have timezone issue (e.g. #68) in China, uncomment to use this:
+#timezone: CN
 
-# Gems   #宝石
-# from PR#40, to support local preview for Jekyll 3.0从PR#40开始，以支持Jekyll 3.0的本地预览。
-# make sure you have this gem installed请确保已安装该宝石。
-# `$ gem install jekyll-paginate`# '$ gem install jekyll-paginate'# $ gem install jekyll-paginate'# $ gem install jekyll-paginate'
-plugins   插件: [jekyll-paginate]
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+# make sure you have this gem installed
+# `$ gem install jekyll-paginate`
+plugins: [jekyll-paginate]
 
-# Markdown settings   # Markdown设置
-# replace redcarpet to kramdown,#把红毯换成kramdown，
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown虽然 Redcarpet 可以自动突出显示代码，但由于缺少 header-id，使得目录无法生成，因此我切换到了 Kramdown。
-# document: http://jekyllrb.com/docs/configuration/#kramdown# 文档：http：//jekyllrb.com/docs/configuration/#kramdown
-markdown   减价: kramdown   减价:kramdown
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
 kramdown:
-  input   输入: GFM 输入：GFM # 使用 GitHub 风味 Markdown！（重要）# use Github Flavored Markdown !important请使用 GitHub 风格的 Markdown 格式！
-  syntax_highlighter_opts   语法高亮选项:
-    span   跨度:
-      line_numbers: false   假   "line_numbers"： false 表示在输出结果中不显示行号。
-    block:   布洛克:
-      line_numbers: true   真正的
+  input: GFM # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
       start_line: 1
 
-# Disqus settings   #磁盘设置
+# Disqus settings
 disqus_username: hux
 
-# Netease settings   #网易设置
-netease_comment: false   假腾讯评论：假
+# Netease settings
+netease_comment: false
 
-# Analytics settings   **分析设置**
-# Baidu Analytics   # 百度分析
-# ba_track_id: [your track id]# ba\_track\_id：[您的曲目ID]
+# Analytics settings
+# Baidu Analytics
+# ba_track_id: [your track id]
 
-# Google Analytics   #谷歌分析
-ga_track_id: "UA-49627206-1" ga_track_id: "UA-49627206-1" #格式:UA-xxxxxx-xx# Format: UA-xxxxxx-xxga_track_id: " 1 " ga_track_id: -49627206”盟-49627206 1 #格式:-xxxxxx - xx #格式:盟-xxxxxx - xx
-ga_domain: huangxuan.me   ga\_domain：黄轩.me
+# Google Analytics
+ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+ga_domain: huangxuan.me
 
-# Sidebar settings   #侧边栏设置
-sidebar: true 是否使用侧边栏：true# whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`侧边栏头像： # 使用绝对URL，因为该图片在根目录和“关于”页面中都使用
+# Sidebar settings
+sidebar: true # whether or not using Sidebar.
+sidebar-about-description: "要做一个安静 <br> React Team @ Meta"
+sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
-# Featured Tags   #特色标签
-featured-tags: true 是否使用特征标签：true# whether or not using Feature-Tags
-featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value特色条件大小：1 # 如果元素的大小超过此条件值，则该元素将被突出显示
+# Featured Tags
+featured-tags: true # whether or not using Feature-Tags
+featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
 
-# Progressive Web Apps   渐进式网络应用
-chrome-tab-theme-color: "#000000"谷歌Chrome浏览器标签页主题颜色：#000000（黑色）
-service-worker: true   服务工人：启用
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
 
-# MathJax rendering for layout:page (e.g. post preview)用于布局页面（例如帖子预览）的MathJax渲染
-page-mathjax: false   page-mathjax:假
+# MathJax rendering for layout:page (e.g. post preview)
+page-mathjax: false
 
-# Friends   #朋友
-friends:   朋友:
+# Friends
+friends:
   [
     { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },{ 标题：“张恩伯”，链接：“” }
-    { title: "Kun Qian", href: "http://kunq.me" },{ title： “坤倩”， href： “http://kunq.me” }，
+    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
+    { title: "Kun Qian", href: "http://kunq.me" },
     { title: "Sherry Woo", href: "https://sherrywoo.me/" },
     { title: "SmdCn", href: "http://blog.smdcn.net" },
     { title: "JiyinYiyong", href: "http://tiye.me/" },
