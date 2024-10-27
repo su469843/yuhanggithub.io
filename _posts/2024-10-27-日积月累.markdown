@@ -7,7 +7,7 @@ catalog:      true
 tags:
     - 语文书64
     - 日积月累
-    -about
+    -
 ---
 
 > 这篇文章转载[智慧中小学]（https://basic.smartedu.cn/）
