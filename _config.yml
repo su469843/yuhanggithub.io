@@ -2,9 +2,9 @@
 title: wusiban Blog
 SEOTitle: 2020级四班的博客 | 五四 Blog
 header-img: img/home-bg.jpg
-email   电子邮件: su@suyuhang.us.kg   电子邮件：su@suyuhang.us.kg
-description   描述: "这里是 @wusi五四 的班级博客，与你一起发现更大的世界 | 要做一个安静的班级"
-keyword   关键字: "五四, wusi五四, 五四, 鬼栈, 2020级四班, @wusi, 五四的博客, wusi Blog, 博客, 班级网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+email: su@suyuhang.us.kg   电子邮件：su@suyuhang.us.kg
+description: "这里是 @wusi五四 的班级博客，与你一起发现更大的世界 | 要做一个安静的班级"
+keyword: "五四, wusi五四, 五四, 鬼栈, 2020级四班, @wusi, 五四的博客, wusi Blog, 博客, 班级网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://huangxuan.me" # your host, for absolute URLURL：“https：//huangxuan.me”#您的主机，用于绝对URL
 baseurl: ""   ＂" # for example, '/blog' if your blog hosted on 'host/blog'`baseurl`： "" (例如，如果博客位于 `host/blog` 上，则为 `/blog`)。
 
@@ -17,7 +17,7 @@ weibo_username: 1
 zhihu_username: 1
 github_username: 1
 twitter_username: 1
-#facebook_username:  huxpro
+#facebook_username:  1
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
