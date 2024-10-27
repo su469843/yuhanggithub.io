@@ -1,0 +1,30 @@
+---
+layout:       post
+title:        "photo"
+author:       "Hang"
+header-style: text
+catalog:      true
+tags:
+    - 图片
+    - 网页
+---
+
+> 这篇文章转载自我的picpic
+
+
+<div>
+    <blockquote>大家好
+        <br>有一个新产品要上架
+        en……</blockquote>是picpic
+    <br>
+    <br><b>重磅升级</b>。
+    <br>
+    <br>可以看我们五年四班的照片
+    <br><b>好多好多</b>
+    <br><b>快要期中了</b>
+    <br>
+    <br>加油
+    <br><b>在期中后上线</b>
+    <br>
+    <br>
+</div>
