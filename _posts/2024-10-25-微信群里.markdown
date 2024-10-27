@@ -2,7 +2,7 @@
 layout:       post
 title:        "微信群"
 author:       "Hang"
-header-style: img/tongxue.jpg
+header-style: img/post-微信群.jpg
 catalog:      true
 tags:
     - 微信群
