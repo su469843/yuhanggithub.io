@@ -1,13 +1,12 @@
-﻿---
-layout:     post布局:文章
-title:      "微信群炸群的那些事"
-date:       2024-10-25 22日期：2024年10月25日22点:55:00
-author:     "hang"作者:“挂”
-header-img: "img/post-bg-miui6.jpg"头部图片：“img/post-bg-miui6.jpg”
-tags:   标签:
-    - 微信
-    -
-    -
+---
+layout:       post
+title:        "微信群炸群"
+author:       "Hang"
+header-style: text
+catalog:      true
+tags:
+    - 微信群
+    - 
 ---
 
 > 这篇文章转载自我的感受
