@@ -1,11 +1,11 @@
 # Site settings
 title: wusi Blog
-SEOTitle: 五四班的博客 | Hux Blog
+SEOTitle: 五四班的博客 | wusi Blog
 header-img: img/home-bg.jpg
 email: wusi@2020classes4.us.kg
 description: "这里是 @wusi五四 的班级博客，与你一起发现更大的世界 | 要做一个有 安静 的班级"
 keyword: "五四, wusi五四, 五四, 鬼栈, 2020级四班, @2020级四班, 五四的博客, wisi Blog, 博客, 班级网站, 班级里的哪些事, 作业, 五年四班, 第二个网站, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://www.blog.2020classes4.us.kg" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:  
-zhihu_username:  
+weibo_username: c 
+zhihu_username:  c
 github_username: su469843
-twitter_username:  
-#facebook_username:   
+twitter_username:  c
+#facebook_username:   c
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
