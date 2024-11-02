@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "期中语文公式等资料整理。"
-date:       2024-10-31 25:00:00
+date:       2024-11-1 7:00:00
 author:     "资料"
 header-img: "img/post-bg-miui6.jpg"
 tags:
