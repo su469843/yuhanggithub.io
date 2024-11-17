@@ -1,35 +1,35 @@
-                                Apache License
-                           Version 2.0, January 2004
+                                阿帕奇许可证
+                           第2版,2024年1月n
                         http://www.apache.org/licenses/
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+   使用、复制和分发的条款和条件
 
    1. Definitions.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+      "许可证"指使用、复制、
+      和本文件第1至第9节所界定的分发。
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+      "许可人"系指版权所有人或其授权的实体。
+      授予许可的版权所有者。
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+      "法律实体"系指代理实体和所有实体的联合
+      控制、被控制或处于共同状态的其他实体
+      控制那个实体。就本定义而言,
+      "控制"是指(一)直接或间接造成下列情况的权力:
+      对这类实体的指导或管理,无论是通过合同还是通过合同
+      否则,或(二)百分之五十(50%)或以上的
+      未偿股,或此种实体的实际所有权。
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+      "你"(或"你的")是指个人或法律实体
+      行使本许可证授予的权限。
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+      "来源"形式是指作出修改的首选形式,
+      包括但不限于软件源代码、文件
+      源文件和配置文件。
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
+      "物体"形式应指由机械造成的任何形式
+      源形式的转换或翻译,包括
+      不限于编译对象代码,生成文档,
       and conversions to other media types.
 
       "Work" shall mean the work of authorship, whether in Source or
@@ -45,12 +45,12 @@
       separable from, or merely link (or bind by name) to the interfaces of,
       the Work and Derivative Works thereof.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
+      "贡献"是指任何作者的作品,包括
+      工作的原件和任何修改或补充
+      其作品或衍生品,即有意
+      由版权所有人提交给许可人,以便纳入作品
+      或经授权代表下列组织提交的个人或法律实体提交的报告
+      版权所有者。为本定义的目的,"提交"
       means any form of electronic, verbal, or written communication sent
       to the Licensor or its representatives, including but not limited to
       communication on electronic mailing lists, source code control systems,
