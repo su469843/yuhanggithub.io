@@ -16,7 +16,6 @@ tags:
 
 <div>
     <blockquote>666
-### 别吵了
         <br>你们可真厉害。
     <br>
     <br><b>可是太厉害了。</b>。
@@ -31,15 +30,22 @@ tags:
     <br>它只是不会自控而已。
     <br>
     <br><b>音乐</b>
+<<<<<<< HEAD
       
 ### 音乐
+
+=======
+>>>>>>> 40acf26e8e8eeac88d487479a21fd3d5a73e001d
     <br><b>划重点了</b>上面
     <br>
     <br><b>这是LX music</b>
     <br><b>先下音源</b>
+<<<<<<< HEAD
     
 ### Thanks
-
+=======
+>>>>>>> 40acf26e8e8eeac88d487479a21fd3d5a73e001d
     <br>
     <br>
 </div>
+
