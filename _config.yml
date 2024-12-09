@@ -16,7 +16,7 @@ RSS: false
 weibo_username: c 
 zhihu_username:  c
 github_username: su469843
-twitter_username:  c
+twitter_username:  yuhang su
 #facebook_username:   c
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 安静 的班级 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/Huxpro.pngI # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
