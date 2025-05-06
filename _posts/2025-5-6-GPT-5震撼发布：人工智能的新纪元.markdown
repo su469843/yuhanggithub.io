@@ -2,7 +2,7 @@
 layout:     post
 title:      "2024年AI领域重大突破：GPT-5正式发布"
 subtitle:   "OpenAI推出新一代语言模型，性能提升300%"
-date:       2024-03-15 12:00:00
+date:       2024-05-06 12:00:00
 author:     "TechInsight"
 header-img: "img/post-bg-ai-2024.jpg"
 tags:
