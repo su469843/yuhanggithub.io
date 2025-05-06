@@ -1,4 +1,3 @@
-
 ---
 
 layout:     post
@@ -11,6 +10,7 @@ tags:
     - Medicine
     - Ethics
     - CRISPR
+---
 
 # 基因编辑婴儿引发全球热议
 
