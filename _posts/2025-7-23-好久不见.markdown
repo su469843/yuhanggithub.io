@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "好久不见"[链接文字](https://www.example.com)
+title:      "好久不见"
 subtitle:   "十年曾一别，征路此相逢。马首向何处？夕阳千万峰。"
 date:       2025-07-23 20:45:00
 author:     "hang"
