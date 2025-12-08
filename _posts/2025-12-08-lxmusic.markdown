@@ -1,0 +1,58 @@
+---
+layout:     post
+title:      "LX MUSIC资源"
+subtitle:   "这期真的整理了好久"
+date:       2025-12-8 24:00:00
+author:     "小苏"
+header-img: "img/post-lxmusic.jpg"
+tags:
+    - 音乐
+    - 分享
+---
+# 官方网站[点击](https://lxmusic.toside.cn/)![log](https://lxmusic.toside.cn/img/logo.svg)
+## 介绍：
+这是一款名为洛雪音乐的免费开源电脑/手机音乐播放器，可以帮你免费收听和下载全网音乐。
+
+核心特点：
+
+· 聚合搜索：可同时搜索多个音乐平台（如网易云、QQ音乐等）的歌曲。
+· 功能全面：支持播放无损音质、下载歌曲、导入其他平台的歌单、显示桌面歌词等。
+· 完全免费：软件本身无广告、不收费。
+
+重要须知：
+
+1. 需自行配置：软件本身不提供音源，安装后需手动导入网友维护的“音源脚本”才能搜索歌曲。
+2. 注意版权：仅适合个人欣赏，请尊重音乐版权。
+
+获取方式：在其 GitHub开源项目页面 下载最安全。
+### 支持平台：Android，Linux，macOS，Windows
+## 下载链接：2.11.0 <br>Releases  手机端：[点击](https://github.com/lyswhut/lx-music-mobile/releases/)<br>电脑端：[点击](https://github.com/lyswhut/lx-music-desktop/releases)
+电脑版MD5<details markdown='1'><summary>展开/收起</summary>
+22AFA1843573C95FD5661727B8936FF0  lx-music-desktop-v2.11.0-arm64-Setup.exe
+3B73BF3A9CFB622CD7D20746E50FB763  lx-music-desktop-v2.11.0-x64-Setup.exe
+1CAD8058EF1BD546ADE9ED3E56CA6F06  lx-music-desktop-v2.11.0-win_arm64-green.7z
+3BF1F9F30ECAEC35F1DB2B0EF67E3889  lx-music-desktop-v2.11.0-win_x64-green.7z
+D103F91C409D8C7727C79B416FC3FED8  lx-music-desktop-v2.11.0-win7_x64-Setup.exe
+41A80C84E44C0AA15833A52C31965741  lx-music-desktop-v2.11.0-win7_x64-green.7z
+50FD7528CA3B071E601EA8C84829AB07  lx-music-desktop-v2.11.0-win7_x86-green.7z
+
+MD5 (lx-music-desktop-2.11.0-arm64.dmg) = 8c4e757f50087c6f4486c3603b081b76
+MD5 (lx-music-desktop-2.11.0-x64.dmg) = b357f810105c77537f9bfca487e9190c
+
+3a9c84565455b88c8813bf194efa78e1  lx-music-desktop_2.11.0_amd64.deb
+528f07fc9010b86b7306d1a5aab005d9  lx-music-desktop_2.11.0_arm64.deb
+dbe23c88b1a20bd2638716a0bcc79f77  lx-music-desktop_2.11.0_armv7l.deb
+ecba86dbccc5398a6070457d689685f4  lx-music-desktop-2.11.0.x64.rpm
+6a8bbad08afd0afaffb269ff86508a36  lx-music-desktop_2.11.0_x64.pacman
+a08a4e991b8bd41ecb631c414facb6f5  lx-music-desktop_2.11.0_x64.AppImage
+
+</details>
+[Windows下载X64](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.11.0/lx-music-desktop-v2.11.0-win7_x64-Setup.exe)[MacOS下载AMD64](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.11.0/lx-music-desktop_2.11.0_amd64.deb)
+[Windows下载x86](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.11.0/lx-music-desktop-v2.11.0-win7_x86-green.7z)[MacOS下载ARM64](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.11.0/lx-music-desktop_2.11.0_arm64.deb)
+[Windows下载green版X64](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.11.0/lx-music-desktop-v2.11.0-win_x64-green.7z)[MacOS下载ARMv7](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.11.0/lx-music-desktop_2.11.0_armv7l.deb)
+# 其他版本请看release
+# 音源请发送`音源`到`20204@20204.xyz`
+
+
+
+
